@@ -1,7 +1,3 @@
-# 💫 About Me:
-# 👋 Hi, I'm Amandeep Kumar<br><br>🚀 Full Stack Developer | React | Next.js | Node.js  <br>💼 Working on real-world SaaS & client projects  <br>📍 India  <br><br>---<br><br>## 🔥 What I Do<br>- Build scalable web apps<br>- Create admin dashboards<br>- API development & integrations (Stripe, Auth, etc.)<br><br>---<br><br>## 🛠 Tech Stack<br>- Frontend: React, Next.js, Tailwind<br>- Backend: Node.js, Express<br>- Database: MySQL, MongoDB<br>- Tools: Git, PM2, Docker<br><br>---<br><br>## 📌 Featured Projects<br><br>### 🧠 Proposal AI<br>AI-based proposal generator for businesses  <br>👉 https://github.com/amandeepkumarflymediatech-star/Proposal-AI<br><br>### ⚙️ VPS Automation<br>Scripts & tools for server setup and deployment  <br>👉 https://github.com/amandeepkumarflymediatech-star/vps<br><br>---<br><br>## 📈 GitHub Stats<br>![Stats](https://github-readme-stats.vercel.app/api?username=amandeepkumarflymediatech-star&show_icons=true)<br><br>---<br><br>## 📫 Contact Me<br>- Email: nhamanbhai@gmail.com<br>- LinkedIn: your link
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nhamanbhai@gmail.com) 
 
